@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+allure-behave = "==2.9.45"
+allure-python-commons = "==2.9.45"
+behave = "==1.2.6"
+attrs = "==21.4.0"
+parse-type = "==0.6.0"
+parse = "==1.19.0"
+pluggy = "==1.0.0"
+six = "==1.16.0"
+PyHamcrest = "==2.0.3"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
